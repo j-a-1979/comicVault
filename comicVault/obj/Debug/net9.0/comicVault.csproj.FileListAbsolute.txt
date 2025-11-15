@@ -1,0 +1,15 @@
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\bin\Debug\net9.0\comicVault.exe
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\bin\Debug\net9.0\comicVault.deps.json
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\bin\Debug\net9.0\comicVault.runtimeconfig.json
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\bin\Debug\net9.0\comicVault.dll
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\bin\Debug\net9.0\comicVault.pdb
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.AssemblyInfoInputs.cache
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.AssemblyInfo.cs
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.csproj.CoreCompileInputs.cache
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.sourcelink.json
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.dll
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\refint\comicVault.dll
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.pdb
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\comicVault.genruntimeconfig.cache
+C:\Users\jarro\Desktop\j-a\repos\comicVault\comicVault\obj\Debug\net9.0\ref\comicVault.dll
